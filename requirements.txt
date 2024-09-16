@@ -1,0 +1,9 @@
+requests
+datetime
+time
+zipfile
+threading
+numpy
+pandas
+mplfinance
+PySimpleGUI
